@@ -1,9 +1,6 @@
 <?php
 /**
  *  Redis锁操作类
- *  Date:   2016-06-30
- *  Author: fdipzone
- *  Ver:    1.0
  *
  *  Func:
  *  public  lock    获取锁
